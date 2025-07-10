@@ -1,54 +1,67 @@
-# 👨‍💻 VirandoDev Oficial
+<h1 align="center">VirandoDev Oficial</h1>
 
-Seja bem-vindo(a) ao meu espaço no GitHub! Aqui compartilho projetos, ideias e iniciativas voltadas ao mundo do desenvolvimento web e engenharia de software. Sou apaixonado por tecnologia, ensino e por ajudar novos profissionais a iniciarem (e evoluírem) na área tech 🚀.
+<p align="center">
+🚀 Desenvolvedor Web | 🧠 Engenheiro de Software | 👨‍🏫 Professor
+</p>
 
----
-
-## 👋 Sobre mim
-
-Sou o Leonardo, coordenador do time de engenharia de software no escritório **Reis Advogados**, com mais de **15 anos de experiência** em tecnologia e mais de **12 anos como professor** em cursos técnicos e universitários. Minha trajetória passou por diversas áreas como suporte, desenvolvimento, tech lead e atualmente liderança técnica e estratégica de times de produto e engenharia.
-
-Atualmente, atuo na ponte entre **negócios e tecnologia**, garantindo que as soluções entregues estejam alinhadas com a estratégia da empresa, promovendo qualidade, estabilidade e produtividade.
-
----
-
-## ⚙️ Entregas de impacto
-
-- ✅ **Migração de Docker Swarm para Kubernetes**, com ganhos significativos em produtividade e visibilidade — redução de incidentes em cerca de **40%**.
-- 🤖 **Integração da IA CURSOR ao time de desenvolvimento**, elevando a produtividade em aproximadamente **17%**.
-- 🧩 Implantação de **processos de 1:1, cultura ágil** e acompanhamento de entregas ponta-a-ponta.
-- 🎯 Responsável pela **contratação, capacitação e desenvolvimento técnico** do time de engenharia.
+<p align="center">
+<img src="https://img.shields.io/badge/Inscreva-se-EBOOK%20GRÁTIS-red?style=for-the-badge&logo=readthedocs" />
+<img src="https://img.shields.io/badge/Site-VirandoDev.com.br-blue?style=for-the-badge&logo=google-chrome" />
+<img src="https://img.shields.io/badge/LinkedIn-Conecte-se-0A66C2?style=for-the-badge&logo=linkedin" />
+</p>
 
 ---
 
-## 🧑‍🏫 Atuação como professor
+### 👋 Sobre mim
 
-Além do ambiente corporativo, dedico-me à formação de novos desenvolvedores. Leciono disciplinas como:
+Me chamo **Leonardo**, sou coordenador do time de engenharia de software do escritório **Reis Advogados** e tenho mais de **15 anos de experiência** com tecnologia. Já atuei nas áreas de suporte, desenvolvimento e liderança técnica, e hoje sou responsável por alinhar tecnologia e estratégia de negócios com foco em qualidade, estabilidade e produtividade.
 
-- Programação Web
-- Banco de Dados
-- Orientação a Objetos
-
-Acredito que compartilhar conhecimento transforma carreiras — e é isso que me move.
+Sou um grande entusiasta de boas práticas, arquitetura limpa, DevOps e desenvolvimento de pessoas. Também atuo como professor há mais de **12 anos**, formando novos desenvolvedores em cursos técnicos e universitários nas áreas de programação web, banco de dados e orientação a objetos.
 
 ---
 
-## 🛠️ Tecnologias que domino
+### 📌 Destaques profissionais
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, C#, SQL Server, MySQL  
-- **DevOps**: Docker, Kubernetes, CI/CD  
-- **Mensageria e caching**: RabbitMQ, Redis  
-- **Boas práticas**: Clean Architecture, TDD, SOLID  
+- 🚀 Implantação de ambiente Kubernetes com redução de 40% em incidentes
+- 🤖 Integração da IA CURSOR no time de devs com aumento de 17% na produtividade
+- 📈 Condução de 1:1, cultura ágil, recrutamento e desenvolvimento técnico
+- 👨‍🏫 Formação de novos devs e mentoria para iniciantes na área
 
 ---
 
-## 🌐 Onde me encontrar
+### 💻 Tecnologias que trabalho
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VirandoDev&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirandoDev&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 🌍 Onde me encontrar
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-treviso/)
-- 🌍 [Site oficial - VirandoDev](https://virandodev.com.br/)
+- 🌐 [VirandoDev.com.br](https://virandodev.com.br/)
+- 📺 [YouTube](https://www.youtube.com/@Virando_Dev)
 
 ---
 
-🎯 Se você também acredita que a tecnologia pode transformar vidas, então já estamos no mesmo caminho. Vamos construir coisas incríveis juntos!
+🧠 *“Tecnologia transforma vidas. Ensinar também.”*  
+📢 Vamos juntos construir o futuro da programação!
 
